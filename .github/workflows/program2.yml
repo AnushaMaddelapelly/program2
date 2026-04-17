@@ -26,4 +26,6 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: pythonscript running
       run: python src/addition.py
+    - name: pythonscript running
+      run: python src/subtraction.py
       
