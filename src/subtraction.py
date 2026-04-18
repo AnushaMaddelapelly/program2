@@ -3,4 +3,4 @@ def sub(a,b):
     return c
 ans=sub(20,10)
 print("subtraction done...")
-print("ans is:",ans)
+print("subtractionn is:",ans)
